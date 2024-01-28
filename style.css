@@ -1,0 +1,11 @@
+body{
+    margin-right: 375px;
+    margin-left: 375px;   
+}
+ul,table{
+    line-height: 2;
+}
+  
+h1,h2,h3{
+    font-family: 'Young Serif', serif;
+}
